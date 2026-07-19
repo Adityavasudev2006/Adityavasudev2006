@@ -119,3 +119,7 @@
 
 </div>
 
+<h2 align="center">🐍 My Contribution Graph</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adityavasudev2006/Adityavasudev2006/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
