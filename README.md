@@ -69,21 +69,15 @@
 
 <!-- 6. LIVE GITHUB STATS (Dark Neon Theme) -->
 <h2 align="center"> 📊 Real-Time Analytics 📊 </h2>
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    <td align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Adityavasudev2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00C6FF&title_color=00C6FF" width="100%" />
-    </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityavasudev2006&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakNum=ffffff" width="100%" />
-    </td>
-  </tr>
-  <tr style="border: none; background-color: transparent;">
-    <td colspan="2" align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityavasudev2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF" width="70%" />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityavasudev2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00C6FF&title_color=00C6FF" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityavasudev2006&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakNum=ffffff" height="195" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityavasudev2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF" width="75%" alt="Top Languages" />
+</p>
 
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
