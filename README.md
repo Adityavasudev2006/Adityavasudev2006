@@ -71,12 +71,12 @@
 <h2 align="center"> 📊 Real-Time Analytics 📊 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityavasudev2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00C6FF&title_color=00C6FF" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityavasudev2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00C6FF&title_color=00C6FF&cache_seconds=86400&v=1" height="195" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityavasudev2006&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakNum=ffffff" height="195" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityavasudev2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF" width="75%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityavasudev2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&cache_seconds=86400&v=1" width="75%" alt="Top Languages" />
 </p>
 
 <br>
