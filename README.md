@@ -35,9 +35,7 @@ me.say_hi()
 ```
 
 - 🎓 B.Tech in **Computer Science Engineering (Data Science)**, VIT Chennai — *2023 – 2027*
-- 🔭 Currently building an **AI-powered healthcare platform** serving 1000+ clients across 10+ branches
 - 🧠 Deep focus on **LLMs, RAG pipelines, multi-agent orchestration**, and **large-scale data engineering**
-- 🏆 1st place, **Glitchcon** (700+ teams) · 2nd place, **Hack a Cure** (500+ teams)
 - 📜 Certified in **Generative AI on IBM Watsonx**
 - 🌱 Always shipping — from Kafka pipelines to production ML on AWS
 - 💬 Ask me about: **RAG, Multi-Agent Systems, MLOps, Data Pipelines, Full-Stack AI Apps**
